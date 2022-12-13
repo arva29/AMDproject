@@ -1,4 +1,4 @@
-# AMDproject
+# Algorithms for Massive Datasets project
 Project for the course "Algorithms for Massive Datasets" of University of Milano of the 2021/2022 academic year
 
 I choose the project 1 from the ones proposed by the professor which has the following outline:
